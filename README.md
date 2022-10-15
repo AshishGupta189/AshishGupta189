@@ -21,7 +21,7 @@
 
 🔭 I’m currently exploring and polishing my skills
 
-🌍 I'm based in Uttar Prasad, India
+🌍 I'm based in Uttar Pradesh, India
 
 ⚛️ Some technologies that I love to working with includes Java.
 
