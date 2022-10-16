@@ -21,11 +21,11 @@
 
 🔭 I’m currently exploring and polishing my skills
 
-🌍 I'm based in Uttar Pradesh, India
+🌍 I belong to Ayodhya, Uttar Pradesh, India
 
 ⚛️ Some technologies that I love to working with includes Java.
 
-👨‍💻 My Portfilio [Click here]()
+👨‍💻 My Portfilio [Click here](https://github.com/AshishGupta189/AshishGupta189.github.io)
 
 👀 My Github Repositories [Click here](https://github.com/AshishGupta189?tab=repositories)
 
@@ -36,7 +36,7 @@
 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/11qJGZQIxKAZq5LV6I5N0uDLOQsYkmr3N/view?usp=sharing) 
 
 
-<p><a href="">My Portfolio </a></p>
+<p><a href="https://github.com/AshishGupta189/AshishGupta189.github.io">My Portfolio </a></p>
 
 
 ## 🌐 Socials
