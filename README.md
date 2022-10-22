@@ -40,7 +40,7 @@
 
 
 ## 🌐 Socials
-[![LinkedIn]("https://www.linkedin.com/in/ashishgupta189/") 
+👨‍💻 My Portfilio [Click here]("https://www.linkedin.com/in/ashishgupta189/") 
 
 <br/>
 
