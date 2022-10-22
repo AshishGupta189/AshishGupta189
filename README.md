@@ -25,7 +25,7 @@
 
 ⚛️ Some technologies that I love to working with includes Java.
 
-👨‍💻 My Portfilio [Click here](https://github.com/AshishGupta189/AshishGupta189.github.io)
+👨‍💻 My Portfilio [Click here](https://ashishgupta189.github.io/)
 
 👀 My Github Repositories [Click here](https://github.com/AshishGupta189?tab=repositories)
 
@@ -36,11 +36,11 @@
 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/11qJGZQIxKAZq5LV6I5N0uDLOQsYkmr3N/view?usp=sharing) 
 
 
-<p><a href="https://github.com/AshishGupta189/AshishGupta189.github.io">My Portfolio </a></p>
+<p><a href="https://ashishgupta189.github.io/">My Portfolio </a></p>
 
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/ashishgupta189/) 
+[![LinkedIn]("https://www.linkedin.com/in/ashishgupta189/") 
 
 <br/>
 
