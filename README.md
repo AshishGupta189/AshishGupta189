@@ -72,9 +72,7 @@
 
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
-    <p align="center">      
-  <a href="https://github.com/AshishGupta189/github-readme-stats"><img alt="AshishGupta189 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta189&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
+   <p align="center"><img align="center" margine-top= "100" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishGupta189&show_icons=true&locale=en&layout=compact" alt="nitya-nb" /></p>     
      <br/>
    <p align="center">
     <a href="https://github.com/AshishGupta189/github-readme-streak-stats">
