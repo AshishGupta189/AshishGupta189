@@ -93,8 +93,6 @@
 
   <br/>
 
-<a href="https://github.com/AshishGupta189/github-readme-activity-graph"><img alt="AshishGupta189 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshishGupta189&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
