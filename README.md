@@ -72,12 +72,15 @@
 
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
-   <p align="center"><img align="center" margine-top= "100" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishGupta189&show_icons=true&locale=en&layout=compact" alt="nitya-nb" /></p>     
+    <p align="center">      
+  <a href="https://github.com/AshishGupta189/github-readme-stats"><img alt="AshishGupta189 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta189&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/AshishGupta189/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AshishGupta189 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishGupta189&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
+  <img alt="AshishGupta189 streak" src="https://streak-stats.demolab.com/?user=AshishGupta189&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
+  </a>
+  
 </p>                                                                                                                                              
 
   <br/>
@@ -87,13 +90,20 @@
     </p>                                                                 
  <h6 align="center"> 
 
+<br/>
+<br/>
+  
+<p align="center">
+<a href="https://github.com/AshishGupta189"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshishGupta189&theme=dracula" />
+</span></a> </p>
 
 <br/>
 <br/>
 
   <br/>
 
+<a href="https://github.com/AshishGupta189/github-readme-activity-graph"><img alt="AshishGupta189 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AshishGupta189&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
 <br/>
-
-
