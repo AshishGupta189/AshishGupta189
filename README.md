@@ -33,7 +33,7 @@
 
 📧 Email - askd442@gmail.com
 
-📄 Know about my experiences  [Resume](https://drive.google.com/file/d/11qJGZQIxKAZq5LV6I5N0uDLOQsYkmr3N/view?usp=sharing) 
+📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1T8427-WIewBwpIZn63A6wVDWnYwxdLPl/view?usp=sharing) 
 
 
 <p><a href="https://ashishgupta189.github.io/">My Portfolio </a></p>
