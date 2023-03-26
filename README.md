@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
+<h1 align="center">Hey 👋, I'm Ashish Gupta</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
