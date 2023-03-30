@@ -23,7 +23,7 @@
 
 🌍 I belong to Ayodhya, Uttar Pradesh, India
 
-⚛️ Some technologies that I love to working with includes Java.
+⚛️ Some technologies that I love to work with includes Java.
 
 👨‍💻 My Portfilio [Click here](https://ashishgupta189.github.io/)
 
