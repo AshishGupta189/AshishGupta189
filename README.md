@@ -29,7 +29,7 @@
 
 👀 My Github Repositories [Click here](https://github.com/AshishGupta189?tab=repositories)
 
-🚀 I have learned couple of skills like Java, MySQl, JavaScript, HTML, CSS , Bootstrap & styled-components.
+🚀 I have learned couple of skills like Java, MySQL, JavaScript, HTML, CSS ,  & backend developments. 
 
 📧 Email - askd442@gmail.com
 
