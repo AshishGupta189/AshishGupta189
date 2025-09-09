@@ -1,109 +1,105 @@
 <h1 align="center">Hey 👋, I'm Ashish Gupta</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Ashish Gupta 👦🏽; I am a Java%20Backend%20Developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20technologies !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=37BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Backend+Developer+👨🏻‍💻;MERN+Stack+Developer+🌐;Passionate+Problem+Solver+🔥;Always+Learning+New+Technologies+🚀"/>
+  </a>
 </p>
 
+---
 
-<h3 align="center" an aspiring Java Backend Developer from India.</h3>
-<h5>I'm a passionate Java Backend Developer skilled in Java  who likes to do experiments and always ready for learning new things 😃. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h5>
+### 👨🏻‍💻 About Me  
+💡 I am a **Java Backend Developer** & an **aspiring MERN Stack Engineer** from India.  
+🌱 Passionate about **scalable backend systems**, **clean architecture**, and **full-stack web applications**.  
+🚀 Always curious to explore **new tools & technologies**.  
+⚡ Strong believer in **writing clean, reusable, and efficient code**.  
+🎯 Aspiration – To build impactful products that solve real-world problems.  
 
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshishGupta189&label=Profile%20views&color=0e75b6&style=flat" alt="AshishGupta189" /> </p>
+## 📍 Personal Info  
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AshishGupta189&theme=darkhub)](https://github.com/AshishGupta189/github-profile-trophy)
+<div align="center">
 
+| 📌 Info | 🔗 Link |
+|---------|---------|
+| 🌍 Location | Ayodhya, Uttar Pradesh, India |
+| 📧 Email | [askd442@gmail.com](mailto:askd442@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/ashishgupta189](https://www.linkedin.com/in/ashishgupta189/) |
+| 🌐 Portfolio | [ashishgupta189.github.io](https://ashishgupta189.github.io/) |
+| 📄 Resume | [View Resume](https://drive.google.com/file/d/1T8427-WIewBwpIZn63A6wVDWnYwxdLPl/view?usp=sharing) |
 
-🔭 I’m currently exploring and polishing my skills
-
-🌍 I belong to Ayodhya, Uttar Pradesh, India
-
-⚛️ Some technologies that I love to work with includes Java.
-
-👨‍💻 My Portfilio [Click here](https://ashishgupta189.github.io/)
-
-👀 My Github Repositories [Click here](https://github.com/AshishGupta189?tab=repositories)
-
-🚀 I have learned couple of skills like Java, MySQL, JavaScript, HTML, CSS ,  & backend development. 
-
-📧 Email - askd442@gmail.com
-
-📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1T8427-WIewBwpIZn63A6wVDWnYwxdLPl/view?usp=sharing) 
-
-
-<p><a href="https://ashishgupta189.github.io/">My Portfolio </a></p>
-
-
-## 🌐 Socials
-👨‍💻 My LinkedIn [Click here](https://www.linkedin.com/in/ashishgupta189/)
-
-<br/>
-
-<h2 align="center">💻 Tech Stack</h2>
- <div align="center"><h3 align="center">Frontend / Backend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  align="center" alt="styled component" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  align="center" alt="node.js"/>
 </div>
 
+---
 
-<div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-  <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
- </div>
+## 💻 Tech Stack  
+
+<h3 align="center">🚀 Languages & Frameworks</h3>
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<h3 align="center">🛠 Tools & Platforms</h3>
+<div align="center">
 
-<h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/AshishGupta189/github-readme-stats"><img alt="AshishGupta189 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta189&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
-     <br/>
-   <p align="center">
-    <a href="https://github.com/AshishGupta189/github-readme-streak-stats">
-  <img alt="AshishGupta189 streak" src="https://streak-stats.demolab.com/?user=AshishGupta189&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
-  </a>
-  
-</p>                                                                                                                                              
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/AshishGupta189/github-readme-stats"><img alt="AshishGupta189 Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshishGupta189&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="AshishGupta189" /></a>
-    </p>                                                                 
- <h6 align="center"> 
+</div>
 
-<br/>
-<br/>
-  
+---
+
+## 🏆 Achievements & Trophies  
 <p align="center">
-<a href="https://github.com/AshishGupta189"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshishGupta189&theme=dracula" />
-</span></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=AshishGupta189&theme=darkhub&row=1&column=7" alt="trophies"/>
+</p>
 
-<br/>
-<br/>
+---
 
-  <br/>
+## 📊 GitHub Stats  
 
-<a href="https://github.com/AshishGupta189/github-readme-activity-graph"><img alt="AshishGupta189 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AshishGupta189&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<div align="center">
 
-<br/>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=AshishGupta189&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishGupta189&theme=neon-dark&hide_border=true" height="160"/>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta189&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160"/>  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshishGupta189&theme=dracula" width="700"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishGupta189&theme=react-dark&hide_border=true&bg_color=0D1117&line=37BCF7&point=FFFFFF"/>
+</p>
+
+---
+
+## ✨ Fun Fact  
+⚡ *"Code is like humor. When you have to explain it, it’s bad."*  
