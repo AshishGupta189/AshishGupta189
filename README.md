@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=37BCF7&height=200&section=header&text=Hey%20👋,%20I'm%20Ashish%20Gupta&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="800"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=37BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Backend+Developer+👨🏻‍💻;MERN+Stack+Developer+🌐;Passionate+Problem+Solver+🔥;Always+Learning+New+Technologies+🚀"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=37BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Backend+Developer+👨🏻‍💻;MERN+Stack+Developer+🌐;Passionate+Problem+Solver+🔥;Always+Learning+New+Technologies+🚀"/>
   </a>
 </p>
 
