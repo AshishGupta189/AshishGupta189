@@ -14,7 +14,7 @@
 ---
 
 ## 👨🏻‍💻 About Me  
-💡 A **Java Backend Developer** & an **aspiring MERN Stack Engineer** from India 🇮🇳.  
+💡 A **Java Backend Developer** & an **MERN Stack Developer** from India 🇮🇳.  
 🌱 Obsessed with **scalable backend systems**, **clean architecture**, and **full-stack web apps**.  
 🚀 Exploring new tools like **cloud platforms & vector databases**.  
 ⚡ Loves **writing clean, reusable, and efficient code**.  
